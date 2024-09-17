@@ -10,8 +10,3 @@
 nonswn/nonswn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-brahbrahbrahbrahbrahbrahbrahbrahbrahbrahbrahbrahbrahbrahbrahbrahbrahbrahbrahbrahbrahbrah
-
-
-
-https://codestar.work/full-stack-2024-09-03.txt
